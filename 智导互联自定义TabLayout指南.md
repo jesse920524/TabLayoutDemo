@@ -64,6 +64,8 @@
 
 ## 参考
 
+**demo源码: [jesse920524/TabLayoutDemo at master (github.com)](https://github.com/jesse920524/TabLayoutDemo/tree/master)**
+
 [ViewPager2&TabLayout：拓展出一个文本选中放大效果 - 掘金 (juejin.cn)](https://juejin.cn/post/7009562779895988255)
 
 [【Android】TabLayout 自定义指示器 Indicator 样式 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903860587200526#heading-7)
