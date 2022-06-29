@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/drawable/bg_mainpage_tab_indicator.xml" value="0.1" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/drawable/bg_refuel_label.xml" value="0.215" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/drawable/bg_tab_indicator.xml" value="0.2005" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/act_login.xml" value="0.3338541666666667" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/act_main.xml" value="0.3338541666666667" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/act_main_page.xml" value="0.3338541666666667" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/act_mt.xml" value="0.3338541666666667" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/act_user.xml" value="0.3338541666666667" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/frag_bt3.xml" value="0.3338541666666667" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/frag_bt4.xml" value="0.3328125" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/frag_car3.xml" value="0.3338541666666667" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/frag_car4.xml" value="0.3338541666666667" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/frag_car_home.xml" value="0.23389830508474577" />
+        <entry key="..\:/TEMP/2022/06/flowlayoutdemo/app/src/main/res/layout/tab_custom.xml" value="0.3328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/srl"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></LinearLayout>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    <Button
+        android:id="@+id/btn_switch_vehicle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="切车" />
+
+    <TextView
+        android:id="@+id/tv_curr_vehicle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="current_vehicle"
+        android:layout_toRightOf="@id/btn_switch_vehicle"
+        android:layout_marginLeft="10dp"
+        android:textSize="24sp"></TextView>
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fcv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btn_switch_vehicle"
+        android:name="com.vspa.flowlayoutdemo.mainpage.CarHomeFragment"
+        android:tag="car_home"></androidx.fragment.app.FragmentContainerView>
+</RelativeLayout>
